@@ -48,13 +48,13 @@ The solution consists of four main projects to ensure modularity:
 
 
 
-1\.  \*\*Vehicle\_Domain:\*\* Contains core entities and interface definitions.
+1\. \*\*Vehicle\_Domain:\*\* Contains core entities and interface definitions.
 
-2\.  \*\*Vehicle\_Repository:\*\* Handles data logic and XML/Database storage operations.
+2\. \*\*Vehicle\_Repository:\*\* Handles data logic and XML/Database storage operations.
 
-3\.  \*\*Vehicle\_ConsoleApp:\*\* The UI layer that interacts with the user.
+3\. \*\*Vehicle\_ConsoleApp:\*\* The UI layer that interacts with the user.
 
-4\.  \*\*Vehicle\_Source:\*\* Manages data sources and common utilities.
+4\. \*\*Vehicle\_Source:\*\* Manages data sources and common utilities.
 
 
 
@@ -69,14 +69,4 @@ The solution consists of four main projects to ensure modularity:
 \* \*\*GitHub:\*\* \[github.com/Syed-Monirul-Islam](https://github.com/Syed-Monirul-Islam)
 
 \* \*\*Email:\*\* syedmonirulislamcu@gmail.com
-
-
-
-\---
-
-
-
-\## 📝 License
-
-This project is open-source and available under the \[MIT License](LICENSE).
 
