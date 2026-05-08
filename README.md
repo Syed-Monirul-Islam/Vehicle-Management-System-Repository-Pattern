@@ -2,7 +2,7 @@
 
 
 
-A professional-grade Console Application built with \*\*C#\*\* and \*\*.NET\*\*, showcasing \*\*N-Layer Architecture\*\* and the \*\*Repository Pattern\*\*. This project is designed to demonstrate clean code principles and structured software development.
+A professional-grade Console Application built with \*\*C#\*\* and \*\*.NET\*\*, showcasing \*\*N-Layer Architecture\*\* and the \*\*Repository Pattern\*\*.
 
 
 
@@ -43,10 +43,6 @@ A professional-grade Console Application built with \*\*C#\*\* and \*\*.NET\*\*,
 
 
 \## 📁 Project Structure
-
-The solution consists of four main projects to ensure modularity:
-
-
 
 1\. \*\*Vehicle\_Domain:\*\* Contains core entities and interface definitions.
 
